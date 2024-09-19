@@ -22,8 +22,8 @@ if __name__ == "__main__":
 # cd----ls---python
 #vi requirement.txt
 #numpy==1.21.2
-pandas==1.3.3
-flask==2.0.1
+#pandas==1.3.3
+#flask==2.0.1
 # python3 app.py 
 # copy the private ip in the new webb
 
